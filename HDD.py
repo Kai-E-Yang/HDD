@@ -1,4 +1,4 @@
-# This code is Hawaii Disambiguity Decoder (HDD) found by SPIN4D project.
+# This code is Hawaii Disambiguity Decoder (HDD) under SPIN4D project.
 # It is used to disambiguate the azimuthal angle of 
 # the magnetic field from the Stokes polarimetric data inversion
 # It can give disambiguate the horizontal magnetic field with 180 degree
