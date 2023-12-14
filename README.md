@@ -4,7 +4,7 @@
 ### It can disambiguate the horizontal magnetic field with a 180-degree
 ### ambiguity and give the prediction of the vertical height based on the 
 ### divergence equation.
-### This is only a very week constraint on the data, but it works well.
+### It is a very week constraint on the data, but it works well.
 ### v0.0.1 2023/11/17 K. Y.
 ### yangkai@hawaii.edu
 
