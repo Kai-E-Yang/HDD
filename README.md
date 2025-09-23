@@ -24,8 +24,18 @@ This repository contains the HDD codebase developed under the **SPIn4D** project
 ## Status
 - **Version:** v0.0.0 (2023-11-17)  
 - **Code & data:** Will be uploaded soon. This README will be updated with installation, usage, and examples upon release.
+- **Version:** v0.29 (2025-01-01), the current loaded version.
 
 ---
+
+
+## TODO
+- **off center:** testing off disk center case.
+- **regulation:** several additional regulation terms are under testing.
+- **chromosphere:** include higher region, i.e. chromosphere.
+
+---
+
 
 ## Citation
 If you use HDD or ideas from this work, please cite the associated SPIn4D paper once available:
