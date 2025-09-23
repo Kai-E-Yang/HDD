@@ -33,6 +33,7 @@ This repository contains the HDD codebase developed under the **SPIn4D** project
 - **off center:** testing off disk center case.
 - **regulation:** several additional regulation terms are under testing.
 - **chromosphere:** include higher region, i.e. chromosphere.
+- **optimize model:** improve the model's upsampling part, and replace the current package dependence.
 
 ---
 
@@ -58,3 +59,12 @@ Part of the **SPIn4D** project. We thank collaborators and the broader community
 
 ## License
 TBD
+
+
+---
+
+## Dependent package
+
+#### python,pytorch,pytorch3dunet (https://github.com/wolny/pytorch-3dunet),h5py
+
+---
