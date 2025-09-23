@@ -65,6 +65,11 @@ TBD
 
 ## Dependent package
 
-#### python,pytorch,pytorch3dunet (https://github.com/wolny/pytorch-3dunet),h5py
+## Dependent packages
+
+- `python`
+- `pytorch`
+- [`pytorch-3dunet`](https://github.com/wolny/pytorch-3dunet)
+- `h5py`
 
 ---
