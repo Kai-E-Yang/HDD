@@ -34,6 +34,7 @@ This repository contains the HDD codebase developed under the **SPIn4D** project
 - **regulation:** several additional regulation terms are under testing.
 - **chromosphere:** include higher region, i.e. chromosphere.
 - **optimize model:** improve the model's upsampling part, and replace the current package dependence.
+- **time series:** extend the model to include time series data, and predict the velocity field.
 
 ---
 
@@ -60,10 +61,7 @@ Part of the **SPIn4D** project. We thank collaborators and the broader community
 ## License
 TBD
 
-
 ---
-
-## Dependent package
 
 ## Dependent packages
 
