@@ -1,0 +1,56 @@
+{
+    "config_data": {
+        "filename": "train_plage.h5",
+        "core_size": 64,
+        "pad": 16,
+        "hsize": 32,
+        "blockNum": 4
+    },
+    "config_model": {
+        "nchan": 64,
+        "deep": 4,
+        "input_channels": 6,
+        "output_channels_b": 3,
+        "output_channels_z": 1
+    },
+    "config_loss": {
+        "w_div": 1e8,
+        "w_div_sign": 1e8,
+        "w_div_sign_start": 1e8,
+        "w_div_sign_end": 1e0,
+        "w_b": 1e7,
+        "w_parallel": 1e10,
+        "w_j": 1e1,
+        "w_laplace": 1e4,
+        "w_mon": 1e15,
+        "w_average": 1e3,
+        "w_height_max": 1e2,
+        "w_height_min": 1e0,
+        "w_thick_max": 1e2,
+        "w_thick_min": 1e0,
+        "height_reg": 0.19105607,
+        "laplace_reg": 0.03665518,
+        "thickness_max": 0.014761985,
+        "thickness_min": 0.0046328306,
+        "dx": 0.016,
+        "dy": 0.016,
+        "dz": 0.014398932,
+        "dz_min": 0.0022426844
+    },
+    "config_train": {
+        "train": true,
+        "continue": false,
+        "checkpoint": "checkpoint_model_B_muram_v24_fix_b_000_19999.pth",
+        "batch_size": 8,
+        "num_epochs": 20000,
+        "extend_num_epochs": 30000,
+        "LBFGS_num_epochs": 100,
+        "num_epochs_conti": 20000,
+        "step_size": 3000,
+        "weight_decay": 1e-2,
+        "optimizer": "AdamW",
+        "learning_rate": 1e-3,
+        "lr_start": 1e-3,
+        "lr_end": 1e-6
+    }
+}
