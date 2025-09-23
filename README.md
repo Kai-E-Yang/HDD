@@ -59,7 +59,7 @@ Part of the **SPIn4D** project. We thank collaborators and the broader community
 ---
 
 ## License
-TBD
+MIT License
 
 ---
 
